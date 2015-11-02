@@ -23,7 +23,8 @@ A: All Daniel's changes are sorrounded by remark    DANIEL_BUG_FIX. Just Search 
 - comment explaining the chage or
 - a whole new function added or
 - code block denoted by DANIEL_BUG_FIX Begin and DANIEL_BUG_FIX end
-------------------
+
+______________________
 ### Changes: _cvhaartraining.h
 1. Added a header to new function for distorting already loaded image and not image file path. 
 2. openCV had a function: icvStartSampleDistortion()
