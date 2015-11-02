@@ -22,7 +22,7 @@ A: All Daniel's changes are sorrounded by remark    DANIEL_BUG_FIX. Just Search 
 - 1 line below or 
 - comment explaining the chage or
 - a whole new function added or
-- code block denoted by DANIEL_BUG_FIX - Begin and DANIEL_BUG_FIX- end
+- code block denoted by DANIEL_BUG_FIX Begin and DANIEL_BUG_FIX end
 ------------------
 ### Changes: _cvhaartraining.h
 1. Added a header to new function for distorting already loaded image and not image file path. 
